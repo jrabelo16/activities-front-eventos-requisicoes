@@ -1,0 +1,24 @@
+.display-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+    
+body {
+    min-height: 100vh;
+
+    background: blueviolet;
+}
+
+div {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+form {
+    padding: 20px;
+
+    background-color: rgb(196, 161, 228);
+    border-radius: 8px;;
+}
